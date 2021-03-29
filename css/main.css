@@ -340,9 +340,21 @@ header{
 /* ========================== end cab ============================ */
 
 .min-card{
-  height: 600px;
+  height: 800px;
   background: #fff;
 }
 .my-card .text-warning {
   margin-top: 20px;
 }
+.my-card p{
+  font-size: 20px;
+}
+
+
+/* .left-card, 
+.right-card{
+  background: #f5f4f2;
+}
+.center-card{
+  background: #ffc61a;
+} */
