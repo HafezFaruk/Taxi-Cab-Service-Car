@@ -340,7 +340,7 @@ header{
 /* ========================== end cab ============================ */
 
 .min-card{
-  height: 800px;
+  height: 680px;
   background: #fff;
 }
 .my-card .text-warning {
@@ -349,12 +349,11 @@ header{
 .my-card p{
   font-size: 20px;
 }
-
-
-/* .left-card, 
-.right-card{
-  background: #f5f4f2;
+.card{
+  border-radius: 0;
+  margin-top: 90px;
 }
-.center-card{
-  background: #ffc61a;
-} */
+
+.card-car{
+  margin-top: -70px;
+}
