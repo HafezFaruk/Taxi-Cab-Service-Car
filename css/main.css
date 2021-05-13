@@ -3,13 +3,11 @@ body{
   padding: 0;
   font-family: 'Lato', sans-serif;
 }
-/* ========================== my css start header ============================ */
 header{
   background: url(../img/header/header-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
-
 }
 
 .text-car h1,p{
@@ -31,9 +29,7 @@ header{
   background: #ffa500;
   border-radius: 20px;
 }
-/* ========================== my css end header ============================ */
 
-/* ========================== start cab ============================ */
 
 .cab-main{
   padding-top: 200px;
@@ -78,23 +74,20 @@ header{
   margin-top: 50px;
 }
 
-/* ========================== end cab ============================ */
-
-
-
 .card-footer{
   border: none;
 }
 .card-footer img{
   height: 50px;
   width: auto;
-  
-
 }
+
 .bg-card-car{
   background-color: #fafafa;
 }
-
+.card-section{
+  padding-top: 70px;
+}
 .card-car{
   margin-top: -70px;
 }
@@ -103,13 +96,33 @@ header{
   background-image: url(../img/content/bg-content.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 .content-icon a{
   background-color: #ffa500;
   font-size: 30px;
   color: #000;
   padding: 16px;
+  border-radius: 50%;
+}
+.content-icon-2 a{
+  background-color: #ffa500;
+  font-size: 30px;
+  color: #000;
+  padding: 16px 22px;
+  border-radius: 50%;
+}
+.content-icon-3 a{
+  background-color: #ffa500;
+  font-size: 30px;
+  color: #000;
+  padding: 16px 18px;
+  border-radius: 50%;
+}
+.content-icon-4 a{
+  background-color: #ffa500;
+  font-size: 30px;
+  color: #000;
+  padding: 16px 18px;
   border-radius: 50%;
 }
 .bg-content p{
